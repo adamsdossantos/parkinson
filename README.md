@@ -13,12 +13,11 @@ https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
 - **Data Preprocessing**:  cleaning, normalization, and splitting into training and testing sets.
 - **Model Training**: Training an SVM model using scikit-learn.
 - **Model Evaluation**: Evaluating the performance of the model using metrics such as accuracy, precision, recall, and F1-score.
-- **Visualization**: Visualization of decision boundaries and feature importance.
 
 
 ## 4. Project Structure
-    ├── parkinson_desease.csv                   # Dataset file 
-    ├── parkinson_detection.ipynb       # Jupyter notebook with end-to-end implementation
+    ├── parkinson_desease.csv       # Dataset file 
+    ├── parkinson_detection.ipynb   # Jupyter notebook with end-to-end implementation
     ├── README.md                   # Project documentation
     ├── requirements.txt            # Python dependencies
     └── .gitignore                  # Files to be ignored in version control
@@ -54,7 +53,7 @@ https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
 
 4. Launch the Jupyter Notebook:
 ```python
-    jupyter notebook parkinson.ipynb
+    jupyter notebook parkinson_detection.ipynb
 ```
 ## 6. Usage
 
